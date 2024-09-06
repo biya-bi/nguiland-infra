@@ -1,12 +1,12 @@
 [submodule "engine"]
 	path = engine
-	url = https://github.com/biya-bi/rainbow-infra-engine.git
+	url = https://github.com/biya-bi/nguiland-infra-engine.git
 [submodule "helm"]
 	path = helm
-	url = https://github.com/biya-bi/rainbow-infra-helm.git
+	url = https://github.com/biya-bi/nguiland-infra-helm.git
 [submodule "secrets"]
 	path = secrets
-	url = https://github.com/biya-bi/rainbow-infra-secrets.git
+	url = https://github.com/biya-bi/nguiland-infra-secrets.git
 [submodule "tekton"]
 	path = tekton
-	url = https://github.com/biya-bi/rainbow-infra-tekton.git
+	url = https://github.com/biya-bi/nguiland-infra-tekton.git
